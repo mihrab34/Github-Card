@@ -1,4 +1,4 @@
-# Js_github_search_project
+# Github Card
 
 ![Project Page](/github.png "Title")
 
